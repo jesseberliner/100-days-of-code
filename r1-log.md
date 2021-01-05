@@ -1,10 +1,34 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Jesse Berliner
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Learned: Directly manipulating the DOM with JavaScript
+New Resources: Scrimba's JavaScript BootCamp
 
 ### R1D2
+Learned: Fetch() to get data from an API and how async/await improves fetch()
+
+
+### R1D3
+Learned: Began first project with Scrimba's JavaScript BootCamp, did some challenges on array methods
+New Resources: FreeCodeCamp's Functional Programming challenges
+
+
+### R1D4
+Learned: Finished watching project for Scrimba, worked on FreeCodeCamp's challenges.  Filter() is much easier for me than reduce()
+
+
+### R1D5
+
+### R1D6
+
+### R1D7
+
+### R1D8
+
+### R1D9
+
+### R1D10
