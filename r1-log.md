@@ -22,6 +22,7 @@ Learned: Finished watching project for Scrimba, worked on FreeCodeCamp's challen
 
 
 ### R1D5
+Learned: Finished Functional Programming section of FreeCodeCamp's challenges, started Intermediate Algorithm Scripting Challenges
 
 ### R1D6
 
