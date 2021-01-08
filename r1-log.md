@@ -29,6 +29,7 @@ Learned: Some Scrimba ('this' and import/export), some FreeCodeCamp, a bit of CS
 New Resources: CSS Diner (https://flukeout.github.io/)
 
 ### R1D7
+Learned: Very basics of state.  Also learned that it's very easy to create a basic app (just red "Hello World" with an alert)
 
 ### R1D8
 
