@@ -13,7 +13,7 @@ Learned: Fetch() to get data from an API and how async/await improves fetch()
 
 
 ### R1D3
-Learned: Began first project with Scrimba's JavaScript BootCamp, did some challenges on array methods
+Learned: Began first project with Scrimba's JavaScript BootCamp, did some challenges on array methods  
 New Resources: FreeCodeCamp's Functional Programming challenges
 
 
@@ -25,7 +25,7 @@ Learned: Finished watching project for Scrimba, worked on FreeCodeCamp's challen
 Learned: Finished Functional Programming section of FreeCodeCamp's challenges, started Intermediate Algorithm Scripting Challenges
 
 ### R1D6
-Learned: Some Scrimba ('this' and import/export), some FreeCodeCamp, a bit of CSS
+Learned: Some Scrimba ('this' and import/export), some FreeCodeCamp, a bit of CSS  
 New Resources: CSS Diner (https://flukeout.github.io/)
 
 ### R1D7
