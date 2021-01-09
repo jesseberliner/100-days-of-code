@@ -32,7 +32,39 @@ New Resources: CSS Diner (https://flukeout.github.io/)
 Learned: Very basics of state.  Also learned that it's very easy to create a basic app (just red "Hello World" with an alert)
 
 ### R1D8
+Learned: Basics of HTML and CSS, yet again.  Maybe, since I'm actually using it, it'll stick this time.
 
 ### R1D9
+Learned: HTML and CSS, finished Scrimba's HTML and CSS crash course.  Needed the refresher.  Tomorrow (or later today) I'll go back to the Roman Numeral to Decimal converter project I 'started' on Day 7
 
 ### R1D10
+
+
+### R1D11
+
+
+### R1D12
+
+
+### R1D13
+
+
+### R1D14
+
+
+### R1D15
+
+
+### R1D16
+
+
+### R1D17
+
+
+### R1D18
+
+
+### R1D19
+
+
+### R1D20
