@@ -74,7 +74,7 @@ Did stuff
 Learned: Finished "Putting it all together" from Scrimba's "CSS Fundamentals", started CSS Challenges
 
 ### R1D22
-
+Learned: Finished CSS Challenges, started Javascript Challenges
 
 ### R1D23
 
