@@ -77,10 +77,10 @@ Learned: Finished "Putting it all together" from Scrimba's "CSS Fundamentals", s
 Learned: Finished CSS Challenges, started Javascript Challenges
 
 ### R1D23
-Learned: Finished Javascript Challenges - created a search bar and a carousel
+Learned: Finished Javascript Challenges - created a search bar and a carousel.  Started dice game
 
 ### R1D24
-
+Learned: Finished dice game, started snake game
 
 ### R1D25
 
