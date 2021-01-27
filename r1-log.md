@@ -83,10 +83,10 @@ Learned: Finished Javascript Challenges - created a search bar and a carousel.  
 Learned: Finished dice game, started snake game
 
 ### R1D25
-
+Learned: Continued snake game
 
 ### R1D26
-
+Learned: Finished snake game, started Module 6 of front end career dev path on Scrimba
 
 ### R1D27
 
