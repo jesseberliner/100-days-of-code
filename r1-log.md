@@ -89,7 +89,7 @@ Learned: Continued snake game
 Learned: Finished snake game, started Module 6 of front end career dev path on Scrimba
 
 ### R1D27
-
+Learned: Continued module 6, classes, static classes, inheritance, and fetch()
 
 ### R1D28
 
