@@ -92,7 +92,7 @@ Learned: Finished snake game, started Module 6 of front end career dev path on S
 Learned: Continued module 6, classes, static classes, inheritance, and fetch()
 
 ### R1D28
-
+Learned: Finished first section of module 6, going over sets and asynch/await, started Javascript challenges
 
 ### R1D29
 
