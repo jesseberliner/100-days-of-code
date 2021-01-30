@@ -95,10 +95,10 @@ Learned: Continued module 6, classes, static classes, inheritance, and fetch()
 Learned: Finished first section of module 6, going over sets and asynch/await, started Javascript challenges
 
 ### R1D29
-
+Learned: Finished Javascript challenges, started Pac-Man game
 
 ### R1D30
-
+Learned: Finished Pac-Man game and module 6
 
 ### R1D31
 
