@@ -98,7 +98,7 @@ Learned: Finished first section of module 6, going over sets and asynch/await, s
 Learned: Finished Javascript challenges, started Pac-Man game
 
 ### R1D30
-Learned: Finished Pac-Man game and module 6
+Learned: Finished Pac-Man game and module 6,started Working with API's: Basics of Web Architecture
 
 ### R1D31
 
