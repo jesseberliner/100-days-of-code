@@ -113,7 +113,7 @@ Learned: Finally got through error handling for Promises, did a few freeCodeCamp
 Learned: Worked on Advanced Fetch concepts
 
 ### R1D35
-
+Learned: More work on advanced fetch concepts
 
 ### R1D36
 
