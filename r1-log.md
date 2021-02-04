@@ -98,19 +98,19 @@ Learned: Finished first section of module 6, going over sets and asynch/await, s
 Learned: Finished Javascript challenges, started Pac-Man game
 
 ### R1D30
-Learned: Finished Pac-Man game and module 6,started Working with API's: Basics of Web Architecture
+Learned: Finished Pac-Man game and module 6, started and finished Working with API's: Basics of Web Architecture
 
 ### R1D31
-
+Learned: Worked on aynchronous javascript.  Did well until I ran into error handling for Promises
 
 ### R1D32
-
+Learned: Struggled with error handling for Promises again, so did freeCodeCamp challenges.  Only got through about 4
 
 ### R1D33
-
+Learned: Finally got through error handling for Promises, did a few freeCodeCamp challenges
 
 ### R1D34
-
+Learned: Worked on Advanced Fetch concepts
 
 ### R1D35
 
