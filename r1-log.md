@@ -116,7 +116,7 @@ Learned: Worked on Advanced Fetch concepts
 Learned: More work on advanced fetch concepts
 
 ### R1D36
-
+Learned: More work on advanced fetch concepts with the Punk Beer API project
 
 ### R1D37
 
