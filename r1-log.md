@@ -119,13 +119,13 @@ Learned: More work on advanced fetch concepts
 Learned: More work on advanced fetch concepts with the Punk Beer API project
 
 ### R1D37
-
+Learned: Finished Punk Beer API project, went back to finish modules 2 and 3 for full completion
 
 ### R1D38
-
+Learned: Finished modules 2 and 3, continued module 5, Responsive Design
 
 ### R1D39
-
+Learned: Worked on more of Responsive Design, started on final project
 
 ### R1D40
 
